@@ -30,3 +30,6 @@ Effect Select empowers effect authors with intelligent dropdowns and recursive b
    https://raw.githubusercontent.com/SlamHammerfist/Effect-Select/refs/heads/main/module.json
 2. Enable Effect Select in your FoundryVTT world.
 
+## AI Usage
+
+Copilot was used to generate code with extensive input and testing from myself.
