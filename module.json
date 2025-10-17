@@ -23,10 +23,11 @@
   },
   "esmodules": ["scripts/main.js"],
   "styles": ["styles/effect-select.css"],
-  "url": ["https://github.com/SlamHammerfist/Effect-Select"],
-  "manifest": ["https://raw.githubusercontent.com/SlamHammerfist/Effect-Select/refs/heads/main/module.json"],
-  "download": ["https://github.com/SlamHammerfist/Effect-Select/archive/refs/heads/main.zip"]
+  "url": "https://github.com/SlamHammerfist/Effect-Select",
+  "manifest": "https://raw.githubusercontent.com/SlamHammerfist/Effect-Select/refs/heads/main/module.json",
+  "download": "https://github.com/SlamHammerfist/Effect-Select/archive/refs/heads/main.zip"
 }
+
 
 
 
