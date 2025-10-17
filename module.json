@@ -1,0 +1,28 @@
+{
+  "id": "effect-select",
+  "title": "Effect Select",
+  "description": "A schema-binding invocation that empowers Active Effects with intelligent dropdowns and recursive bonus logic.",
+  "authors": [
+    {
+      "name": "Slam Hammerfist",
+      "flags": {}
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system"
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "styles": ["styles/effect-select.css"]
+}

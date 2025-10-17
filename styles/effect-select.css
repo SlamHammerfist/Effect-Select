@@ -1,0 +1,74 @@
+.aed-combo-wrapper {
+  position: relative;
+}
+
+input.aed-combo-input {
+  width: 100%;
+  font-size: 14px;
+  font-family: "Signika", "Palatino Linotype", serif !important;
+  padding: 3px 6px;
+  border: 1px solid #7a7971;
+  border-radius: 3px;
+  background-color: rgba(0, 0, 0, 0.1);
+  color: #191813 !important;
+  line-height: 1.2;
+}
+
+input.aed-combo-input:focus {
+  border-color: #c9593f;
+}
+
+
+ul.aed-combo-list {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #f7f3e8;
+  border: 1px solid #7a7971;
+  border-radius: 8px;
+  max-height: 200px;
+  overflow-y: auto;
+  margin: 0;
+  padding: 1px 0;
+  list-style: none;
+  font-size: 14px;
+  font-family: "Signika", "Palatino Linotype", serif !important;
+  color: #191813 !important;
+  line-height: 1.2;
+  z-index: 1000;
+  white-space: nowrap;
+}
+
+ul.aed-combo-list li.aed-combo-item {
+  padding: 2px 6px;
+  cursor: pointer;
+  text-align: left;
+  background-color: #f7f3e8;
+  font-family: "Signika", "Palatino Linotype", serif !important;
+  color: #191813 !important;
+  line-height: 1.2;
+}
+
+ul.aed-combo-list li.aed-combo-item:hover,
+ul.aed-combo-list li.aed-combo-item.aed-highlight {
+  background-color: #1967d2;
+  color: #ffffff !important;
+}
+
+ul.aed-combo-list li.aed-combo-header {
+  font-weight: 600;
+  padding: 2px 6px;
+  pointer-events: none;
+  background-color: #d1cfc0;
+  text-align: left;
+  font-size: 14px;
+  font-family: "Signika", "Palatino Linotype", serif !important;
+  color: #191813 !important;
+  line-height: 1.2;
+}
+
+mark {
+  background-color: #1967d2;
+  color: #ffffff !important;
+  padding: 0;
+}
