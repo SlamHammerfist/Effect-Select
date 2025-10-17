@@ -26,7 +26,8 @@
   ],
   "styles": ["styles/effect-select.css"]
   "url": "https://github.com/SlamHammerfist/Effect-Select",
-	"manifest": "https://raw.githubusercontent.com/SlamHammerfist/Effect-Select/refs/heads/main/module.json",
-	"download": "https://github.com/SlamHammerfist/Effect-Select/archive/refs/heads/main.zip",
-	"changelog": "https://github.com/SlamHammerfist/Effect-Select/blob/main/CHANGELOG.md"
+  "manifest": "https://raw.githubusercontent.com/SlamHammerfist/Effect-Select/refs/heads/main/module.json",
+  "download": "https://github.com/SlamHammerfist/Effect-Select/archive/refs/heads/main.zip",
+  "changelog": "https://github.com/SlamHammerfist/Effect-Select/blob/main/CHANGELOG.md"
 }
+
