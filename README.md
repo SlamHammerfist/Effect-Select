@@ -1,12 +1,10 @@
-# 🪄 Effect Select
+# Effect Select
 
 _A schema-binding invocation for Active Effects in DND5E._
 
 Effect Select empowers effect authors with intelligent dropdowns and recursive bonus logic. It injects a searchable, grouped key selector into Active Effect configuration and extends `.all` bonuses across every applicable domain — from attacks and damage to saves, checks, skills, tools, traits, and more.
 
----
-
-## ✨ Features
+## Features
 
 - 🔽 **Dropdown Injection**  
   Adds a searchable, grouped dropdown to the Active Effect key field, powered by schema-driven logic.
@@ -20,4 +18,9 @@ Effect Select empowers effect authors with intelligent dropdowns and recursive b
 - 🧩 **Modular Architecture**  
   Core logic split into `allBonuses.js` for maintainability and reuse.
 
----
+## Instilation
+
+1. Manually add the manifest to FoundryVTT:
+   ```json
+   https://raw.githubusercontent.com/SlamHammerfist/Effect-Select/refs/heads/main/module.json
+2. Enable Effect Select in your FoundryVTT world.
