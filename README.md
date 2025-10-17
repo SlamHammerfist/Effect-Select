@@ -18,9 +18,15 @@ Effect Select empowers effect authors with intelligent dropdowns and recursive b
 - 🧩 **Modular Architecture**  
   Core logic split into `allBonuses.js` for maintainability and reuse.
 
-## Instilation
+## Compatibility
+
+- FoundryVTT 13+
+- DND5e 5.x.x
+
+## Installation
 
 1. Manually add the manifest to FoundryVTT:
    ```json
    https://raw.githubusercontent.com/SlamHammerfist/Effect-Select/refs/heads/main/module.json
 2. Enable Effect Select in your FoundryVTT world.
+
